@@ -1,2 +1,2 @@
-# adventofcode2015
+# adventofcode
 Repository for http://adventofcode.com
